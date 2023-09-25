@@ -5,13 +5,16 @@
 
 
 
-Soy un ingeniero de software con menos de un año de experiencia profesional. 
+¡Hola! Mi nombre es Dante, y soy un apasionado ingeniero de sistemas con experiencia en el desarrollo de pruebas manuales e ingresando al mundo de automation, estoy utilizando tecnologías como Selenium IDE, Postman, QA manual y Jhenkins. Me mantengo en constante capacitación en frontend, mejorando mis habilidades en CSS y HTML.
 
-Mi carrera comenzó en 2017 en AIU, una Universidad internacional, con el sueño de crecer como profesional en el desarrollo de software y contribuir al mundo. 
+Con poco menos de un año de experiencia en el desarrollo de pruebas, he participado en proyectos emocionantes que me han permitido aprender y crecer profesionalmente. Me enorgullece ser parte de un equipo colaborativo y disfruto trabajando en soluciones innovadoras con desafiantes problemas técnicos.
 
-Me he especializado en desarrollo de aplicaciones y aseguramiento de calidad. En 2023, inicié mi plan para mudarme a España con mi familia y perfeccionar mis habilidades junto a destacados profesionales de la industria de TI. 
+Antes de embarcarme en mi trayectoria como profesional IT, trabajé durante más de 5 años en el área de gastronomía en empresas reconocidas. Esta experiencia me proporcionó una valiosa perspectiva empresarial, habilidades organizativas y comunicativas que complementan mi enfoque técnico en el desarrollo de software.
 
-Estoy emocionado por esta nueva etapa en mi carrera, donde buscaré seguir mejorando y entregando soluciones de alta calidad en desarrollo de software y QA.
+Soy una persona proactiva y curiosa, siempre en busca de nuevas oportunidades para aprender y crecer en el mundo de la tecnología. Mi pasión por la tecnología me motiva a mantenerme actualizado con las últimas tendencias y mejores prácticas, lo que me permite enfrentar nuevos desafíos con confianza y entusiasmo.
+
+Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi conocimiento y habilidades en proyectos significativos. Siempre estoy abierto a oportunidades para colaborar y aprender de otros profesionales del sector tecnológico. ¡No dudes en contactarme!
+
 
 
 ## Tecnologías:
