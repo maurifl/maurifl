@@ -23,6 +23,8 @@ Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi 
 ![vscode](https://github.com/maurifl/maurifl/assets/6419342/b9e1917d-c05c-4458-9c84-cad49a653563)
 ![fire](https://github.com/maurifl/maurifl/assets/6419342/6b14c69a-54fc-4c2f-904b-01a8cf812cb1)
 ![mysql](https://github.com/maurifl/maurifl/assets/6419342/c0f5cb31-a318-4e78-9eca-e5ca8cc7cd6b)
+![seleniumIDE](https://github.com/maurifl/maurifl/assets/6419342/aec06bb5-ac30-4c86-8507-5e29f64c3a2f)
+![Jhenkins](https://github.com/maurifl/maurifl/assets/6419342/834868d5-b2bf-402d-b41c-d9fe8dc57b3b)
 </br>
 Y alguna más...
 
