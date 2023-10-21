@@ -5,6 +5,7 @@
 ![banner](https://github.com/maurifl/maurifl/assets/6419342/e041cbf9-4b3c-41bb-bdd5-456bf37f5b9b)
 
 
+---
 
 ¡Hola! Mi nombre es Dante, y soy un apasionado ingeniero de sistemas con experiencia en el desarrollo de pruebas manuales e ingresando al mundo de automation, estoy utilizando tecnologías como Selenium IDE, Postman, QA manual y Jhenkins. Me mantengo en constante capacitación en frontend, mejorando mis habilidades en CSS y HTML.
 
@@ -16,6 +17,7 @@ Soy una persona proactiva y curiosa, siempre en busca de nuevas oportunidades pa
 
 Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi conocimiento y habilidades en proyectos significativos. Siempre estoy abierto a oportunidades para colaborar y aprender de otros profesionales del sector tecnológico. ¡No dudes en contactarme!
 
+---
 
 
 ## Tecnologías:
