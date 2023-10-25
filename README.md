@@ -39,7 +39,8 @@ Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi 
 Y alguna más...
 
 ## Encuéntrame en:
-[![LINK](https://github.com/maurifl/maurifl/assets/6419342/0573104c-09d3-48ea-a272-47dd321c844f)](https://www.linkedin.com/in/maurifl/)
+[![LINK](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-MAURIFL-blue?style=flat-square&logo=linkedin&logoColor=white&label=Linkedin&labelColor=black&color=blue
+)](https://www.linkedin.com/in/maurifl/)
 
 ## Contacto:
 </br>
@@ -47,5 +48,4 @@ Y alguna más...
 ![gmail](https://github.com/maurifl/maurifl/assets/6419342/2b8d0ec4-7c7d-4260-97a2-7df097c83b2d)
 maurifl@gmail.com
 
-![linkedin1](https://github.com/maurifl/maurifl/assets/6419342/6abf834c-537f-42bb-ae36-cc3a4d5dfd14)
-https://www.linkedin.com/in/maurifl/
+
