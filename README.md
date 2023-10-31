@@ -26,6 +26,7 @@ Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi 
 ![js](https://github.com/maurifl/maurifl/assets/6419342/18b958d3-68e0-44fd-b2ed-b099294c5ec2)
 ![vue](https://github.com/maurifl/maurifl/assets/6419342/614c386a-402d-4620-8b98-9b55ce5564f5)
 ![py](https://github.com/maurifl/maurifl/assets/6419342/d5e438c8-5486-45ab-9dd0-7c690b4b0cec)
+![java](https://github.com/maurifl/maurifl/assets/6419342/654678ef-25c4-4c03-bd8a-86654f415bac)
 ![vscode](https://github.com/maurifl/maurifl/assets/6419342/b9e1917d-c05c-4458-9c84-cad49a653563)
 ![git](https://github.com/maurifl/maurifl/assets/6419342/aa7c0e77-884a-4736-8b67-da9bbe5adf9b)
 ![mark](https://github.com/maurifl/maurifl/assets/6419342/b4565e9f-9e58-4cb8-90e4-3899999bf040)
@@ -33,11 +34,10 @@ Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi 
 ![fire](https://github.com/maurifl/maurifl/assets/6419342/eb6ddb6f-574d-413e-aecb-f7e9a806f0a7)
 ![seleniumIDE](https://github.com/maurifl/maurifl/assets/6419342/aec06bb5-ac30-4c86-8507-5e29f64c3a2f)
 ![Jhenkins](https://github.com/maurifl/maurifl/assets/6419342/834868d5-b2bf-402d-b41c-d9fe8dc57b3b)
-![cor21](https://github.com/maurifl/maurifl/assets/6419342/b61fe813-1d3d-4820-8985-1655aa472747)
-![scrum](https://github.com/maurifl/maurifl/assets/6419342/956762f0-6b0c-40ff-83d7-01ba887c534d)
-![java](https://github.com/maurifl/maurifl/assets/6419342/654678ef-25c4-4c03-bd8a-86654f415bac)
 ![maven](https://github.com/maurifl/maurifl/assets/6419342/7c3a0e07-15fe-46eb-8c08-b19d13379f3a)
 ![intellij](https://github.com/maurifl/maurifl/assets/6419342/5a1b5ae1-3a5d-4966-898b-4bd50b415044)
+![cor21](https://github.com/maurifl/maurifl/assets/6419342/b61fe813-1d3d-4820-8985-1655aa472747)
+![scrum](https://github.com/maurifl/maurifl/assets/6419342/956762f0-6b0c-40ff-83d7-01ba887c534d)
 
 </br>
 Y alguna más...
