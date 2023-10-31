@@ -35,6 +35,10 @@ Estoy emocionado por seguir creciendo en mi carrera como QA y contribuir con mi 
 ![Jhenkins](https://github.com/maurifl/maurifl/assets/6419342/834868d5-b2bf-402d-b41c-d9fe8dc57b3b)
 ![cor21](https://github.com/maurifl/maurifl/assets/6419342/b61fe813-1d3d-4820-8985-1655aa472747)
 ![scrum](https://github.com/maurifl/maurifl/assets/6419342/956762f0-6b0c-40ff-83d7-01ba887c534d)
+![java](https://github.com/maurifl/maurifl/assets/6419342/654678ef-25c4-4c03-bd8a-86654f415bac)
+![maven](https://github.com/maurifl/maurifl/assets/6419342/7c3a0e07-15fe-46eb-8c08-b19d13379f3a)
+![intellij](https://github.com/maurifl/maurifl/assets/6419342/5a1b5ae1-3a5d-4966-898b-4bd50b415044)
+
 </br>
 Y alguna más...
 
